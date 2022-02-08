@@ -1,1 +1,10 @@
+gcc -g p2original.c
+ ./a.out
+Enter your number
+3
+Enter your number
+4
+Enter your number
+5
+So the triangle is scalene  
 
